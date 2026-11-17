@@ -1,0 +1,6 @@
+name: Digit Recognizer
+icon: 🔢
+description: Handwritten digit recognition on UNO Q. A PyTorch CNN (exported to ONNX) runs on the Linux side; the result is shown on the 8x13 LED matrix via Bridge.
+
+bricks:
+  - arduino:web_ui
